@@ -96,7 +96,7 @@ header{width:100%;}
 /* #m_lnb_close_button{font-weight:700;font-size:18px;position: absolute;top:22px;right:24px;border:1px solid rgb(170, 170, 170);border-radius: 18px;width:36px;height:36px;line-height: 24px;background:none} */
 
 #m_gnb_main_menubtn_show{display:block}
-#m_gnb_main_menubtn_hide{display:none;margin-right:6px}
+#m_gnb_main_menubtn_hide{display:none;margin-right:0px}
 
 .m_lnb_menu{margin:12px 0;border-bottom:1px solid rgb(240, 240, 240);padding-bottom:12px;overflow:hidden;max-height:48px;transition:max-height 0.5s;cursor: pointer;}
 .m_lnb_menu li{display:block;margin: 6px 0 6px 12px}
