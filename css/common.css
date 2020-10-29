@@ -86,6 +86,7 @@ header{width:100%;}
 #m_gnb_main{height:68px;width:100%;display:flex;justify-content: space-between;align-items: center;}
 .m_gnb_main_icons{height:68px;display:flex;align-items: center;justify-content: space-between;}
 .m_gnb_main_icons li{width:36px;height:36px;padding:6px;margin:0 6px}
+.m_gnb_main_icons li:nth-child(3){margin-right:0px}
 .m_gnb_main_icons li:last-child{margin-right:-6px}
 .m_gnb_main_icons li:hover{background:rgb(229,229,229);border-radius: 18px;}
 
